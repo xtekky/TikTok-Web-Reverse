@@ -32,14 +32,14 @@ class Api:
         
         this.config = this.__get_config()
         
-    def __get_config() -> dict:
-        init      = client.get('https://www.tiktok.com')
-        device_id = findall(r'wid":"([0-9]+)"', init.text)[0]
+    # def __get_config() -> dict:
+    #     init      = client.get('https://www.tiktok.com')
+    #     device_id = findall(r'wid":"([0-9]+)"', init.text)[0]
         
-        return {
-            'device_id': device_id,
-            'ms'
-        }
+    #     return {
+    #         'device_id': device_id,
+    #         'ms'
+    #     }
         
     def __base_params(this, extra: dict = {}) -> str:
         
