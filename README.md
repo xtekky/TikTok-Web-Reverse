@@ -1,4 +1,5 @@
-making this public as I saw a lot of skids and it is getting annoying. 
+(not finished)
+making this public as I saw a lot of skids and it is getting annoying.   
 do not skid this pure python bogus algorithm, give credits guys
 
 
