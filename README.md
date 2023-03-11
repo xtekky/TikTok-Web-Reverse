@@ -1,10 +1,10 @@
-(not finished)
+added shape sec !!  
+feel free to pull req. 
 
 some remarks
 ```
-- @bytedance stop using rc4 for everything lmfao. 
-- imagine having bogus on jsvmp lmfao.    
-- x-mssdk-info, x-bogus, mssdk encryption reversed (.py). 
-- shape-sec headers soon
+- @bytedance currently uses rc4 as main encryption.   
+- x-mssdk-info, x-bogus, mssdk encryption reversed (.py), shape-sec browser-based .py
 ```
-credits for the help of @azubisminir his repo: https://github.com/PSVita-Dev/tokreversing
+
+@azubisminir's repo: https://github.com/PSVita-Dev/tokreversing
