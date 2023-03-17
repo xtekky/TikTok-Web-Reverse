@@ -13,4 +13,4 @@ Due to a DCMA takedown request, I had to delete this repository
 
 questions: https://t.me/xtekky
 
-https://web.archive.org/ | https://github.com/pneb/TikTok-Web-Reverse ?
+https://web.archive.org/
